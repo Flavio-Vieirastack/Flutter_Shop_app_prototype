@@ -1,4 +1,4 @@
-# olx_App
+# Flutter Shop app prototype
 
 A new Flutter project.
 
